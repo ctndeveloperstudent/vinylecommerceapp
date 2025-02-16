@@ -25,8 +25,14 @@ For business owners looking to sell other types of products, this website can be
 
 #### For Store Owners/Admin
 - Product management: admin can add, edit or delete inventory from the store.
-- Order management: admin can update the sysstem and the customer on their order status.
+- Order management: admin can update the system and the customer on their order status.
 - Stock tracking: The system will keep track of inventory to prevent overselling.
 - User management: Admin can manage customer accounts and assign admin roles if needed.
+
+### Target Audience
+1. Vinyl collectors and enthusiasts: People who prefer physical records over streaming and want an easy way to find rare or classic albums.
+2. Casual listeners: Those who love music and want to start collecting vinyls.
+3. Independent artists and sellers: Musicians and small record labels looking for a platform to sell their vinyl releases.
+4. Small business owners: Entrepreneurs who want to sell non vinyl products by adapting the website to their needs.
 
 
