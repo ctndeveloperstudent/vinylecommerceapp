@@ -52,7 +52,7 @@ This project will be built using the MERN stack.
 ## R2: Dataflow Diagram
 
 
-![Data Flow Diagram](docs\dataflowdiagram.png)
+![Data Flow Diagram](docs/dataflowdiagram.png)
 
 ## R3 Application Architecture Diagram
 The application architecture consists of five main layers, including authentification.
@@ -83,7 +83,7 @@ The application architecture consists of five main layers, including authentific
 
 
 ### Diagram
-![Application Architecture Diagram](docs\adddiagram.png)
+![Application Architecture Diagram](docs/adddiagram.png)
 
 ## R4: User Stories & Personas (Progress and Refinement)
 
@@ -274,56 +274,56 @@ Updated User Story 4: Order Status Updates with Email Notifications
 
 ## R5 Wireframes
 ### Home Page 
-![Home Page - Desktop and Tablet](docs\wireframehomepagedesktoptablet.png)
+![Home Page - Desktop and Tablet](docs/wireframehomepagedesktoptablet.png)
 
 ### Home Page (Mobile)
-![Home Page - Mobile](docs\wireframehomepagemobile.png)
+![Home Page - Mobile](docs/wireframehomepagemobile.png)
 
 ### Collection Page 
-![Collection Page](docs\wireframecollectionpage.png)
+![Collection Page](docs/wireframecollectionpage.png)
 
 ### Product Page 
-![Product Page](docs\wireframeproductpage.png)
+![Product Page](docs/wireframeproductpage.png)
 
 ### Product Page 
-![Product Page](docs\wireframeproductpage.png)
+![Product Page](docs/wireframeproductpage.png)
 
 ### Login Page
-![Login Page](docs\wireframeloginpage.png)
+![Login Page](docs/wireframeloginpage.png)
 
 ### Sign Up Page
-![Sign Up Page](docs\wireframesignuppage.png)
+![Sign Up Page](docs/wireframesignuppage.png)
 
 ### Cart Page
-![Cart Page](docs\wireframecartpage.png)
+![Cart Page](docs/wireframecartpage.png)
 
 ### Payment and Delivery Page
-![Delivery and Payment](docs\wireframedelieryandpayment.png)
+![Delivery and Payment](docs/wireframedelieryandpayment.png)
 
 ### My Order Page
-![My Order Page](docs\wireframemyorderpage.png)
+![My Order Page](docs/wireframemyorderpage.png)
 
 ### About Us Page
-![About Us Page](docs\wireframeaboutuspage.png)
+![About Us Page](docs/wireframeaboutuspage.png)
 
 ### Contact Us Page
-![Contact Us Page](docs\wireframecontactuspage.png)
+![Contact Us Page](docs/wireframecontactuspage.png)
 
 ## R6 Screenshots of Trello Board
 ### R1 Card
-![R1 Card](docs\r1card.png)
+![R1 Card](docs/r1card.png)
 
 ### R2 Card
-![R2 Card](docs\r2card.png)
+![R2 Card](docs/r2card.png)
 
 ### R3 Card
-![R3 Card](docs\r3card.png)
+![R3 Card](docs/r3card.png)
 
 ### R4 Card
-![R4 Card](docs\r4card.png)
+![R4 Card](docs/r4card.png)
 
 ### R5 Card
-![R5 Card](docs\r5card.png)
+![R5 Card](docs/r5card.png)
 
 ### Trello Board Progress Photos
 ![Trello Board 1](docs/tb1.png)
