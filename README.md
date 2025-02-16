@@ -44,4 +44,9 @@ This project will be built using the MERN stack.
 - Stripe/Paypal: For secure payments
 - JWT Outh: For user and admin authentification  
 
+### Deployment Plan
+- Frontend: The website will be deployed on Netlify.
+- Backend: The website will be deployed on Render.
+- Database: MongoDB Atlas for cloud-based database storage.
+
 
