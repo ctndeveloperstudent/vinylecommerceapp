@@ -308,3 +308,34 @@ Updated User Story 4: Order Status Updates with Email Notifications
 
 ### Contact Us Page
 ![Contact Us Page](docs\wireframecontactuspage.png)
+
+## R6 Screenshots of Trello Board
+### R1 Card
+![R1 Card](docs\r1card.png)
+
+### R2 Card
+![R2 Card](docs\r2card.png)
+
+### R3 Card
+![R3 Card](docs\r3card.png)
+
+### R4 Card
+![R4 Card](docs\r4card.png)
+
+### R5 Card
+![R5 Card](docs\r5card.png)
+
+### Trello Board Progress Photos
+![Trello Board 1](docs/tb1.png)
+
+![Trello Board 2](docs/tb2.png)
+
+![Trello Board 3](docs/tb3.png)
+
+![Trello Board 4](docs/tb4.png)
+
+![Trello Board 5](docs/tb5.png)
+
+![Trello Board 6](docs/tb6.png)
+
+![Trello Board 7](docs/tb7.png)
