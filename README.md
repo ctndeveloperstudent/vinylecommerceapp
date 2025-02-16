@@ -271,3 +271,40 @@ Updated User Story 4: Order Status Updates with Email Notifications
 - Developed personas to align with key user groups.
 - Updated personas based on user story needs (added filtering, password recovery, bulk upload, and email notifications).
 - Refined user stories to include these updates for a more detailed, trackable feature roadmap.
+
+## R5 Wireframes
+### Home Page 
+![Home Page - Desktop and Tablet](docs\wireframehomepagedesktoptablet.png)
+
+### Home Page (Mobile)
+![Home Page - Mobile](docs\wireframehomepagemobile.png)
+
+### Collection Page 
+![Collection Page](docs\wireframecollectionpage.png)
+
+### Product Page 
+![Product Page](docs\wireframeproductpage.png)
+
+### Product Page 
+![Product Page](docs\wireframeproductpage.png)
+
+### Login Page
+![Login Page](docs\wireframeloginpage.png)
+
+### Sign Up Page
+![Sign Up Page](docs\wireframesignuppage.png)
+
+### Cart Page
+![Cart Page](docs\wireframecartpage.png)
+
+### Payment and Delivery Page
+![Delivery and Payment](docs\wireframedelieryandpayment.png)
+
+### My Order Page
+![My Order Page](docs\wireframemyorderpage.png)
+
+### About Us Page
+![About Us Page](docs\wireframeaboutuspage.png)
+
+### Contact Us Page
+![Contact Us Page](docs\wireframecontactuspage.png)
