@@ -35,4 +35,13 @@ For business owners looking to sell other types of products, this website can be
 3. Independent artists and sellers: Musicians and small record labels looking for a platform to sell their vinyl releases.
 4. Small business owners: Entrepreneurs who want to sell non vinyl products by adapting the website to their needs.
 
+### Tech Stack
+This project will be built using the MERN stack.
+- MongoDB: Stores product data, user accounts and orders.
+- Express.js: Backend framework for handling API requests.
+- React.js: Frontend for the user interface and interactivity.
+- Node.js: Backend runtime environment.
+- Stripe/Paypal: For secure payments
+- JWT Outh: For user and admin authentification  
+
 
