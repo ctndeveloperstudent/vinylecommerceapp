@@ -81,8 +81,9 @@ The application architecture consists of five main layers, including authentific
     - Stores user accounts, products, orders, payments, and inventory.
     - Ensures data persistence and security.
 
+
 ### Diagram
-[Insert Application Architecture Diagram Here]
+![Alt text](docs\adddiagram.png)
 
 ## R4: User Stories & Personas (Progress and Refinement)
 
