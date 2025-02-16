@@ -83,7 +83,7 @@ The application architecture consists of five main layers, including authentific
 
 
 ### Diagram
-![Alt text](docs\adddiagram.png)
+![Application Architecture Diagram](docs\adddiagram.png)
 
 ## R4: User Stories & Personas (Progress and Refinement)
 
