@@ -30,10 +30,10 @@ For business owners looking to sell other types of products, this website can be
 - User management: Admin can manage customer accounts and assign admin roles if needed.
 
 ### Target Audience
-1. Vinyl collectors and enthusiasts: People who prefer physical records over streaming and want an easy way to find rare or classic albums.
-2. Casual listeners: Those who love music and want to start collecting vinyls.
-3. Independent artists and sellers: Musicians and small record labels looking for a platform to sell their vinyl releases.
-4. Small business owners: Entrepreneurs who want to sell non vinyl products by adapting the website to their needs.
+- Vinyl collectors and enthusiasts: People who prefer physical records over streaming and want an easy way to find rare or classic albums.
+- Casual listeners: Those who love music and want to start collecting vinyls.
+- Independent artists and sellers: Musicians and small record labels looking for a platform to sell their vinyl releases.
+- Small business owners: Entrepreneurs who want to sell non vinyl products by adapting the website to their needs.
 
 ### Tech Stack
 This project will be built using the MERN stack.
@@ -42,11 +42,45 @@ This project will be built using the MERN stack.
 - React.js: Frontend for the user interface and interactivity.
 - Node.js: Backend runtime environment.
 - Stripe/Paypal: For secure payments
-- JWT Outh: For user and admin authentification  
+- JWT: For secure user and admin authentication  
 
 ### Deployment Plan
 - Frontend: The website will be deployed on Netlify.
 - Backend: The website will be deployed on Render.
 - Database: MongoDB Atlas for cloud-based database storage.
 
+## ! R2: Dataflow Diagram
+The data flow diagrams were created using the System Structure Analysis and Design Methodology (SSADM) notation system for Dataflow Diagrams.
+
+[Insert diagram here]
+
+## R3 Application Architecture Diagram
+The application architecture consists of five main layers, including authentification.
+
+1. User (client side):
+    - Users interact with the application through a browser or mobile device.
+    - They send HTTP requests to browse records, add items to the cart, and proceed to checkout.
+
+2. Frontend (React - Netlify)
+    - The frontend handles UI, routing and API requests.
+    - It communicates with the backend using RESTful APIs via Axios.
+
+3. Authentication (JWT - Secure Login)
+    - Users log in using JWT authentication, which securely manages sessions.
+    - The frontend sends login requests to the backend, which verifies credentials.
+    - A JWT token is issued upon successful login and stored on the frontend.
+    - The token is included in requests to authenticate user actions (e.g: viewing order history).
+
+4. Backend (Node.js & Express - Render)
+    - Processes Api requests coming from the frontend.
+    - Manages the business logic, including shopping cart, order processing and authentication.
+    - Uses JWT verification to secure user sessions.
+    - Contacts to MongoDB Atlas to retrieve or store data.
+
+5. Database (MongoDB - Cloud Based Storage)
+    - Stores user accounts, products, orders, payments, and inventory.
+    - Ensures data persistence and security.
+
+### Diagram
+[Insert Application Architecture Diagram Here]
 
