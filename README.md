@@ -1,6 +1,8 @@
-# T3A3-A Assignment: Vinyl eCommerce Platform (MERN)
+# T3A2-A Assignment: Vinyl eCommerce Platform (MERN)
 
 This repository is the complete documentation for the design and plannning of a MERN stack application: an ecommerce platform built for a vinyl music store. It is built according to the rubric requirements of assignment T3A3-A from Coder Academy.
+
+Github Repo: https://github.com/ctndeveloperstudent/vinylecommerceapp
 
 ## R1: Overview (Description of the website including purpose, functionality, target audience and tech stack)
 
