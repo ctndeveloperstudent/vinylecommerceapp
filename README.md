@@ -84,3 +84,190 @@ The application architecture consists of five main layers, including authentific
 ### Diagram
 [Insert Application Architecture Diagram Here]
 
+## R4: User Stories & Personas (Progress and Refinement)
+
+### First Iteration of User Stories
+
+User Story 1: Browsing & Filtering Records
+
+    "As a vinyl collector, I want to browse and filter records by genre, artist, and release year, so that I can quickly find albums that match my collection interests."
+
+User Story 2: Secure Login & Order Tracking
+
+    "As a casual music listener, I want to create an account and securely log in, so that I can track my orders and manage my purchases."
+
+User Story 3: Product Management for Sellers
+
+    "As an independent vinyl seller, I want to list my records for sale and update stock availability, so that I can manage my inventory efficiently and keep customers informed."
+
+User Story 4: Order Status Updates
+
+    "As an online shopper, I want to receive order status updates (Processing, Shipped, Delivered), so that I know when to expect my order."
+
+### First Iteration of Personas
+
+Persona 1: Aria (Vinyl Collector)
+
+    Background: A dedicated vinyl collector who enjoys rare and classic records.
+
+    Goals:
+    - Find specific vinyl records quickly.
+    - Complete collections and discover new releases.
+
+    Pain Points:
+    - Struggles with eCommerce sites that lack filtering options.
+    - Finds it frustrating when album details (artist, release year) are missing.
+
+Persona 2: Spencer (Casual Listener)
+
+    Background: A casual music fan who is just starting to collect vinyls.
+
+    Goals:
+    - Buy a few favorite records.
+    - Easily track purchases and past orders.
+
+    Pain Points:
+    - Worried about account security when shopping online.
+    - Finds order tracking difficult on some platforms.
+
+Persona 3: Alison (Independent Vinyl Seller)
+
+    Background: A small business owner who sells limited-edition, newly released and second-hand vinyl.
+
+    Goals:
+    - List vinyl records for sale easily.
+    - Update stock availability to prevent overselling.
+
+    Pain Points:
+    - Manual inventory management is time-consuming.
+    - Large platforms take high commission fees.
+
+
+
+Persona 4: Hanna (Online Shopper)
+
+    Background: A frequent online buyer who loves convenience and clear tracking information.
+
+    Goals:
+    - Receive real-time order updates.
+    - Know exactly when their purchase will arrive.
+
+    Pain Points:
+    - Frustrated by unclear delivery times.
+    - Has had issues with orders getting lost due to lack of updates.
+
+
+### Updates & Refinements 
+
+- Aria’s user story aligns with enhanced search and filtering features → Updated to include artist and release year search.
+
+- Spencer’s user story emphasizes JWT authentication for secure logins → Updated to include forgotten password recovery.
+
+- Alison’s user story focuses on inventory and stock management → Updated to include bulk product uploading for efficiency.
+
+- Hanna’s user story highlights the importance of order tracking updates → Updated to include email notifications for tracking updates.
+
+
+### Finalized & Updated Personas
+
+Aria – The Vinyl Collector
+
+    Background: A dedicated vinyl collector who enjoys rare and classic records.
+
+    Goals:
+    - Find specific vinyl records quickly.
+    - Complete collections and discover new releases.
+    - Use artist and release year search to refine results.
+
+    Pain Points:
+    - Struggles with eCommerce sites that lack filtering options.
+    - Finds it frustrating when album details (artist, release year) are missing.
+
+    How My Website Helps:
+    - Genre-based filtering makes it easier to find records.
+    - Search by artist and release year for precise results.
+    - Clear album descriptions help users make informed purchases.
+
+
+Spencer – The Casual Listener
+
+    Background: A casual music fan who is just starting to collect vinyl.
+
+    Goals:
+    - Buy a few favorite records.
+    - Easily track purchases and past orders.
+    - Ensure secure transactions and password recovery options.
+
+    Pain Points:
+    - Worried about account security when shopping online.
+    - Finds order tracking difficult on some platforms.
+
+    How My Website Helps:
+    - JWT authentication ensures secure login and session management.
+    - User dashboard shows past purchases and current orders.
+    - Forgot password recovery for account security.
+
+
+Alison – The Independent Vinyl Seller
+
+    Background: A small business owner who sells limited-edition and second-hand vinyl.
+
+    Goals:
+    - List vinyl records for sale easily.
+    - Update stock availability to prevent overselling.
+    - Bulk upload product listings for efficiency.
+
+    Pain Points:
+    - Manual inventory management is time-consuming.
+    - Large platforms take high commission fees.
+
+    How My Website Helps:
+    - Simple product management for adding, editing, and removing records.
+    - Stock tracking prevents overselling.
+    - Bulk upload feature for faster inventory updates.
+
+
+Hanna – The Online Shopper
+
+    Background: A frequent online buyer who loves convenience and clear tracking information.
+
+    Goals:
+    - Receive real-time order updates.
+    - Know exactly when their purchase will arrive.
+    - Get email notifications for delivery updates.
+
+    Pain Points:
+    - Frustrated by unclear delivery times.
+    - Has had issues with orders getting lost due to lack of updates.
+
+    How My Website Helps:
+    - Order status tracking (Processing, Shipped, Delivered).
+    - Email notifications keep customers informed.
+    - Clear shipping policies with estimated delivery times.
+
+
+### Updated User Stories Based on Persona Revisions
+
+Updated User Story 1: Browsing & Filtering Records
+
+    "As a vinyl collector, I want to browse and filter records by genre, artist, and release year, so that I can quickly find albums that match my collection interests and refine my search results."
+
+Updated User Story 2: Secure Login & Password Recovery
+
+    "As a casual music listener, I want to create an account, securely log in using JWT authentication, and recover my password if needed, so that I can access my orders without security concerns."
+
+Updated User Story 3: Bulk Product Management for Sellers
+
+    "As an independent vinyl seller, I want to list my records for sale, update stock availability, and bulk upload products, so that I can manage my inventory efficiently and keep customers informed."
+
+Updated User Story 4: Order Status Updates with Email Notifications
+
+    "As an online shopper, I want to receive order status updates via email (Processing, Shipped, Delivered), so that I know when to expect my vinyl purchase and avoid missed deliveries."
+
+
+### Summary of Progress & Refinement
+
+- Created initial user stories based on core website features.
+- Developed personas to align with key user groups.
+- Updated personas based on user story needs (added filtering, password recovery, bulk upload, and email notifications).
+- Refined user stories to include these updates for a more detailed, trackable feature roadmap.
