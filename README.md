@@ -9,4 +9,8 @@ My website is an eCommerce platform designed specifically for vinyl record enthu
 
 The website's structure is also adaptable for other business owners or artists who want to sell different types of products, making it a versitile eCommerce solution beyond just vinyl records.
 
-## Purpose
+### Purpose
+This website was created because many vinyl eCommerce platforms lack modern UI/UX, have outdated search features, or provide a poor shopping experience. My goal is to offer a sleek, well-organised marketplace for vinyl lovers while making it easy for independent sellers and artists to list and sell their records.
+
+For business owners looking to sell other types of products, this website can be customised to fit different industries, offering a scalable and user-friendly ecommerce solution.
+
