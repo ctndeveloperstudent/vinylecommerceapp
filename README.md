@@ -49,10 +49,10 @@ This project will be built using the MERN stack.
 - Backend: The website will be deployed on Render.
 - Database: MongoDB Atlas for cloud-based database storage.
 
-## ! R2: Dataflow Diagram
-The data flow diagrams were created using the System Structure Analysis and Design Methodology (SSADM) notation system for Dataflow Diagrams.
+## R2: Dataflow Diagram
 
-[Insert diagram here]
+
+![Data Flow Diagram](docs\dataflowdiagram.png)
 
 ## R3 Application Architecture Diagram
 The application architecture consists of five main layers, including authentification.
